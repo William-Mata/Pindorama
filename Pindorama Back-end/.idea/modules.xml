@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/agencia-fe.iml" filepath="$PROJECT_DIR$/.idea/agencia-fe.iml" />
+      <module fileurl="file://$PROJECT_DIR$/pindorama.iml" filepath="$PROJECT_DIR$/pindorama.iml" />
     </modules>
   </component>
 </project>
